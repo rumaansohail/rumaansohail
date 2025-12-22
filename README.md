@@ -1,63 +1,53 @@
-<h1 align="center">
-  Muhammad Rumaan Sohail
-</h1>
+<div align="center">
 
-<p align="center">
-  <b>Full-Stack Web Developer</b><br/>
-  Front-End • WordPress • Shopify • 6+ Years Experience
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Muhammad%20Rumaan%20Sohail&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 
-<p align="center">
-  Crafting fast, scalable & visually polished web experiences.
-</p>
+</div>
 
-<p align="center">
-  <a href="https://www.upwork.com/freelancers/~01200b123776493bc0">Upwork</a> •
-  <a href="mailto:rumaansohail001@gmail.com">Email</a> •
-  <a href="https://github.com/rumaansohail">GitHub</a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rumaansohail&label=Profile%20Views&color=blueviolet&style=flat" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer;Frontend+Architect+%7C+WordPress+%7C+Shopify;Crafting+Fast%2C+Scalable+%26+Beautiful+Web+Experiences;6%2B+Years+of+Production+Experience" />
+
+</div>
 
 ---
 
-## 🚀 About Me
+<div align="center">
 
-- 🔭 Working as a **Full-Stack WordPress Developer**
-- 🧠 Strong in **Front-End Architecture & UI Engineering**
-- 🛠 Expert in **Custom Themes, Plugins & Performance Optimization**
-- 👯 Open to **collaborations & long-term projects**
-- 🎯 **2026–27 Goal:** Open-source contributions & product ideas
+### 🧠 Building products that look **premium**, perform **fast**, and scale **clean**
+
+</div>
 
 ---
 
-## 🧰 Tech Stack
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,php,nodejs,python,mysql,mongodb,postgres,wordpress,shopify,tailwind,sass,bootstrap,figma,git,aws,zapier" />
-</p>
+<a href="https://www.upwork.com/freelancers/~01200b123776493bc0">
+  <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"/>
+</a>
+<a href="mailto:rumaansohail001@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/rumaansohail">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rumaansohail&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rumaansohail&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumaansohail&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
 ---
 
-## 📬 Let’s Build Something Great
+<div align="center">
 
-💼 Freelance • Contract • Collaboration  
-📧 **rumaansohail001@gmail.com**
+<img src="https://komarev.com/ghpvc/?username=rumaansohail&style=for-the-badge&color=38BDF8" />
+
+</div>
+
+---
+
+## 🧩 Who Am I?
+
+```txt
+🚀 Full-Stack WordPress Engineer
+🎨 Frontend Performance & UI Specialist
+🧱 Custom Themes • Plugins • Headless Builds
+⚙️ APIs • Automations • Integrations
