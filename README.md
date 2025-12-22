@@ -66,7 +66,7 @@
 
 </table>
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-rumaan-sohail-460533243/"><img src="https://img.shields.io/badge/-Ubaid%20Ullah%20Awam-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-rumaan-sohail-460533243/"><img src="https://img.shields.io/badge/-Muhammad%20Rumaan%20Sohail-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:-rumaansohail001@gmail.com"><img src="https://img.shields.io/badge/-rumaansohail001@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
