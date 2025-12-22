@@ -10,11 +10,11 @@
 
   <h3>I'm a Full Stack website Developer</h3>
   <ul>
-    <li>🔭 I’m currently working as a Full Stack WordPress Develoepr</li>
+    <li>🔭 I’m currently working as a Full Stack WordPress Developer</li>
     <li>💎 Expertise in custom theme development and plugin customization</li>
     <li>🌱 I’m currently expanding my knowledge in Front End.</li>
     <li>👯 I want to collaborate with other developers.</li>
-    <li>🥅 2023-24 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.</li>
+    <li>🥅 2026-27 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.</li>
     
   </ul>
 	
