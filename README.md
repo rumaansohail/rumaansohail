@@ -1,125 +1,162 @@
-<body>
-  <div align="center">
-    <h1 style="color: #F7CC18FF;">Hi there, I'm Muhammad Rumaan Sohail👋<a href="#"></a></h1>
-  </div>
-  <p align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=Full+Stack+WordPress+Developer+;Front+End+Developer" alt="Typing SVG" />
-    </a>
-  </p>
+<div align="center">
 
-  <h3>I'm a Full Stack website Developer</h3>
-  <ul>
-    <li>🔭 I’m currently working as a Full Stack WordPress Developer</li>
-    <li>💎 Expertise in custom theme development and plugin customization</li>
-    <li>🌱 I’m currently expanding my knowledge in Front End.</li>
-    <li>👯 I want to collaborate with other developers.</li>
-    <li>🥅 2026-27 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.</li>
-    
-  </ul>
-	
-<h2>Tech Stack</h2>
+<!-- Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F7CC18,50:ff6b35,100:F7CC18&height=200&section=header&text=Muhammad%20Rumaan%20Sohail&fontSize=40&fontColor=0d1117&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20WordPress%20Developer%20%7C%20Front%20End%20Engineer&descAlignY=55&descSize=16&descColor=0d1117"/>
 
-<table>
-<tr>
-<td align='center'>
-<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="100">
-</td>
-<td align='center'>
-<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" width="100">
-</td>
-<td align='center'>
-<img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original-wordmark.svg"  width="100">
-</td>
-<td align='center'>
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="100">
-</td>
-<td align='center'>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="100">
-</td>
-</tr>
-<tr>
-<td align='center'>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" width="70">
-</td>
-<td align='center'>
-<img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="80">
-</td>
-<td align='center' width="200">
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="170">
-</td>
-<td align='center' width="200">
-<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="90">
-</td>
-<td align='center' width="200">
-<img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
-</td>
-</tr>
-<tr>
-<td align='center' width="200">
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="80">
-</td>
-<td align='center' width="200">
-<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" width="150">
-</td>
-</tr>
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=2000&pause=800&color=F7CC18&center=true&vCenter=true&width=600&lines=Full+Stack+WordPress+Developer+%F0%9F%9A%80;Custom+Theme+%26+Plugin+Expert+%F0%9F%92%8E;Front+End+Engineer+%F0%9F%8E%A8;Open+Source+Contributor+%F0%9F%8C%8D;Building+the+Web%2C+One+Pixel+at+a+Time+%E2%9C%A8" alt="Typing SVG" />
+</a>
 
-</table>
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-rumaan-sohail-460533243/"><img src="https://img.shields.io/badge/-Muhammad%20Rumaan%20Sohail-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:-rumaansohail001@gmail.com"><img src="https://img.shields.io/badge/-rumaansohail001@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
+<br/>
 
-<table>
-  <tr>
-    <th>Stats</th>
-    <th>Streak</th>
-    <th>Languages</th>
-  </tr>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saadfareed&theme=gruvbox"/></td>
-    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=saadfareed&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888"/></a></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huzaifa215&theme=gruvbox"/></td>
-  </tr>
-</table>
-	
+<!-- Social Badges -->
+<a href="https://www.linkedin.com/in/muhammad-rumaan-sohail-460533243/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:rumaansohail001@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/rumaansohail">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=rumaansohail&style=for-the-badge&color=F7CC18&labelColor=0d1117" alt="Profile Views"/>
 
-	
-## Personal Projects
+</div>
 
-| Project :octocat: | Issues :bug: | Open PRs :bell: | Closed PRs :fire: | Last Commit 🚩 |
-| ----------------- | ------------- | ---------------- | ------------------ | -------------- |
-| [**Leetcode Practice**](https://github.com/saadfareed/Leetcode) | ![GitHub issues](https://img.shields.io/github/issues/saadfareed/Leetcode?color=green&logo=github&style=flat) | ![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/Leetcode?style=flat&logo=github) | ![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/Leetcode?style=flat&color=critical&logo=github) | ![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/Leetcode?color=blue&logo=github&style=flat) |
-| [**Github Profile**](https://github.com/huzaifa215/huzaifa215) | ![GitHub issues](https://img.shields.io/github/issues/huzaifa215/huzaifa215?color=green&logo=github&style=flat) | ![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/saadfareed?style=flat&logo=github) | ![GitHub PRs](https://img.shields.io/github/issues-pr-closed/huzaifa215/huzaifa215?style=flat&color=critical&logo=github) | ![GitHub last commit](https://img.shields.io/github/last-commit/huzaifa215/huzaifa215?color=blue&logo=github&style=flat) |
-| [**Ecomerence**](https://github.com/huzaifa215/ecommerce-rest-api) | ![GitHub issues](https://img.shields.io/github/issues/huzaifa215/ecommerce-rest-api?color=green&logo=github&style=flat) | ![GitHub PRs](https://img.shields.io/github/issues-pr/huzaifa215/ecommerce-rest-api?style=flat&logo=github) | ![GitHub PRs](https://img.shields.io/github/issues-pr-closed/huzaifa215/ecommerce-rest-api?style=flat&color=critical&logo=github) | ![GitHub last commit](https://img.shields.io/github/last-commit/huzaifa215/ecommerce-rest-api?color=blue&logo=github&style=flat) |
-| [**Card Recognization**](https://github.com/huzaifa215/cardRecognition) | ![GitHub issues](https://img.shields.io/github/issues/huzaifa215/cardRecognition?color=green&logo=github&style=flat) | ![GitHub PRs](https://img.shields.io/github/issues-pr/huzaifa215/cardRecognition?style=flat&logo=github) | ![GitHtiub PRs](https://img.shields.io/github/issues-pr-closed/huzaifa215/cardRecognition?style=flat&color=critical&logo=github) | ![GitHub last commit](https://img.shields.io/github/last-commit/huzaifa215/cardRecognition?color=blue&logo=github&style=flat) |
+---
 
-[![@Huzaifa's Holopin board](https://holopin.io/api/user/board?user=sadi)](https://holopin.io/@huzaifa)
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-## 🚀Github Metrics
+### 👨‍💻 About Me
 
-<p align="center">
-	  <img src="https://corewpbuilders.com/wp-content/uploads/2025/12/rm.svg" alt="metrics">
- 
-</p>
-    
-## 🐛Github Magic Game
+```yaml
+name: Muhammad Rumaan Sohail
+role: Full Stack WordPress Developer
+location: Pakistan 🇵🇰
+status: Open to Opportunities 🟢
 
-<p align="center">
-  <img src="https://github.com/saadfareed/saadfareed/raw/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
+skills:
+  - Custom WordPress Theme Development
+  - WooCommerce & Plugin Customization
+  - Front End Engineering
+  - Performance Optimization
 
-<br>
+goals_2026_27:
+  - Contribute to Open Source
+  - Execute Innovative Ideas
+  - Level Up in Front End
+  - Collaborate & Build Cool Stuff
+```
 
-<p align="center"> 
-  Views<br>
-  <img src="https://profile-counter.glitch.me/saadfareed/count.svg">
-</p>
-		
-![](https://hit.yhype.me/github/profile?user_id=50300882)
+<br clear="right"/>
 
+---
 
+## ⚡ Tech Arsenal
 
+<div align="center">
 
+### 🌐 WordPress & CMS
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-this is mine brother i changes it with my name but somewhere also ubaid is coming keep everything same just replace with my name
+### 🎨 Front End
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+### 🛠️ Tools & DevOps
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rumaansohail&show_icons=true&theme=radical&border_color=F7CC18&title_color=F7CC18&icon_color=F7CC18&hide_border=false&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=rumaansohail&theme=radical&hide_border=false&border=F7CC18&ring=F7CC18&fire=ff6b35&currStreakLabel=F7CC18&date_format=j%20M%5B%20Y%5D" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumaansohail&layout=compact&theme=radical&border_color=F7CC18&title_color=F7CC18&hide_border=false&langs_count=8" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rumaansohail&theme=radical&utcOffset=5"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rumaansohail&theme=radical&no-frame=false&no-bg=false&margin-w=6&column=7&title_color=F7CC18" />
+</div>
+
+---
+
+## 🚀 GitHub Metrics
+
+<div align="center">
+  <img src="https://corewpbuilders.com/wp-content/uploads/2025/12/rm.svg" alt="metrics" width="80%">
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/rumaansohail/rumaansohail/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</div>
+
+---
+
+## 📁 Personal Projects
+
+<div align="center">
+
+| Project 🚀 | Issues 🐛 | Open PRs 🔔 | Closed PRs 🔥 | Last Commit 🚩 |
+|---|---|---|---|---|
+| [**Leetcode Practice**](https://github.com/rumaansohail/Leetcode) | ![Issues](https://img.shields.io/github/issues/rumaansohail/Leetcode?color=F7CC18&logo=github&style=flat-square) | ![PRs](https://img.shields.io/github/issues-pr/rumaansohail/Leetcode?style=flat-square&logo=github) | ![Closed PRs](https://img.shields.io/github/issues-pr-closed/rumaansohail/Leetcode?style=flat-square&color=critical&logo=github) | ![Last Commit](https://img.shields.io/github/last-commit/rumaansohail/Leetcode?color=blue&logo=github&style=flat-square) |
+| [**GitHub Profile**](https://github.com/rumaansohail/rumaansohail) | ![Issues](https://img.shields.io/github/issues/rumaansohail/rumaansohail?color=F7CC18&logo=github&style=flat-square) | ![PRs](https://img.shields.io/github/issues-pr/rumaansohail/rumaansohail?style=flat-square&logo=github) | ![Closed PRs](https://img.shields.io/github/issues-pr-closed/rumaansohail/rumaansohail?style=flat-square&color=critical&logo=github) | ![Last Commit](https://img.shields.io/github/last-commit/rumaansohail/rumaansohail?color=blue&logo=github&style=flat-square) |
+| [**Ecommerce REST API**](https://github.com/rumaansohail/ecommerce-rest-api) | ![Issues](https://img.shields.io/github/issues/rumaansohail/ecommerce-rest-api?color=F7CC18&logo=github&style=flat-square) | ![PRs](https://img.shields.io/github/issues-pr/rumaansohail/ecommerce-rest-api?style=flat-square&logo=github) | ![Closed PRs](https://img.shields.io/github/issues-pr-closed/rumaansohail/ecommerce-rest-api?style=flat-square&color=critical&logo=github) | ![Last Commit](https://img.shields.io/github/last-commit/rumaansohail/ecommerce-rest-api?color=blue&logo=github&style=flat-square) |
+| [**Card Recognition**](https://github.com/rumaansohail/cardRecognition) | ![Issues](https://img.shields.io/github/issues/rumaansohail/cardRecognition?color=F7CC18&logo=github&style=flat-square) | ![PRs](https://img.shields.io/github/issues-pr/rumaansohail/cardRecognition?style=flat-square&logo=github) | ![Closed PRs](https://img.shields.io/github/issues-pr-closed/rumaansohail/cardRecognition?style=flat-square&color=critical&logo=github) | ![Last Commit](https://img.shields.io/github/last-commit/rumaansohail/cardRecognition?color=blue&logo=github&style=flat-square) |
+
+</div>
+
+---
+
+## 💬 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rumaansohail&theme=redical&bg_color=141321&color=F7CC18&line=F7CC18&point=ff6b35&area=true&hide_border=false" />
+</div>
+
+---
+
+<div align="center">
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F7CC18,50:ff6b35,100:F7CC18&height=120&section=footer"/>
+
+### 🔥 Let's build something insane together.
+
+**[rumaansohail001@gmail.com](mailto:rumaansohail001@gmail.com)** • **[LinkedIn](https://www.linkedin.com/in/muhammad-rumaan-sohail-460533243/)** • **[GitHub](https://github.com/rumaansohail)**
+
+</div>
